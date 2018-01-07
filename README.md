@@ -10,7 +10,9 @@ MATLAB version R2017b or higher is required to run the code.
 To read in data files from the Andor camera environment (.sif extension) or to directly talk to the camera itself, the according routines provided by Andor are required. These are under the copyright of Andor Technology Ltd. and are not provided here.
 
 ## To Do
-A graphical user interface complementing the applicaltion is currently under development (matlab app).
+-[] A graphical user interface complementing the applicaltion is currently under development (matlab app).
+-[] Rework coordinate systems definition and implementation.
+-[] Referenced measurement mode
 
-## Not Licensed
-The project in *not licensed* and any use modification or distribution is prohibited unless permitted by the creator. Ask the creator for permission if interesed in using the code. The creator excludes any liabiltiy or warranty.
+## License
+The project in **not licensed** and any use modification or distribution is prohibited unless permitted by the creator. Ask the creator for permission if interesed in using the code. The creator excludes any liabiltiy or warranty.
